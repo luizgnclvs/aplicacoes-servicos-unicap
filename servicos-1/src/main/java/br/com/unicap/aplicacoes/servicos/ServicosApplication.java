@@ -1,13 +1,13 @@
-package br.com.unicap.services1;
+package br.com.unicap.aplicacoes.servicos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Services1Application {
+public class ServicosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Services1Application.class, args);
+		SpringApplication.run(ServicosApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package br.com.unicap.services1;
+package br.com.unicap.aplicacoes.servicos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Services1ApplicationTests {
+class ServicosApplicationTests {
 
 	@Test
 	void contextLoads() {
