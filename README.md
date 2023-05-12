@@ -5,6 +5,6 @@ Exercícios propostos pelo professor ao decorrer da disciplina de Aplicações O
 ## Índice
 
 - Node
-  - Express [ [REPO]() ]
+  Express [ [REPO]() ]
 - Spring Boot
-  - Projeto Individual [ [REPO](https://github.com/luizgnclvs/aplicacoes-servicos-unicap/tree/main/servicos-spring-1) ]
+  - Projeto Individual [ [REPO](https://github.com/luizgnclvs/aplicacoes-servicos-unicap/tree/main/Spring%20%231) ]
