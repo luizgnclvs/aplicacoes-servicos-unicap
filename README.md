@@ -8,3 +8,4 @@ Exercícios propostos pelo professor ao decorrer da disciplina de Aplicações O
   - Express [ [REPO](https://github.com/luizgnclvs/aplicacoes-servicos-unicap/tree/main/Node%20%231) ]
 - Spring Boot
   - Projeto Individual [ [REPO](https://github.com/luizgnclvs/aplicacoes-servicos-unicap/tree/main/Spring%20%231) ]
+  - CRUD Spring Boot [ [REPO](https://github.com/luizgnclvs/aplicacoes-servicos-unicap/tree/main/Spring%20%232) ]
